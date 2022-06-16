@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{	
+	color: yellow;
+}
+.navbar-nav{
+	font-size: 18px;
+}	
+.navbar ul li a {
+	color: white;
+}
+
+.progress{
+	height: 50px;
+	border-radius: 50px;
+	transition: all 0.5 ease;
+}
+.progress:hover{
+	transform: scale(1.1) ;
+}
+#footer {
+	padding: 10px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.card {
+	height: 50px;
+	border-radius: 50px;
+	transition: all 0.5 ease;
+}
+.card:hover{
+	transform: scale(1.1);
+}
